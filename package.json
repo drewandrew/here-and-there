@@ -1,0 +1,19 @@
+{
+  "name": "here-and-there",
+  "version": "1.0.0",
+  "description": "Static website for Here and There Grain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewandrew/here-and-there.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewandrew/here-and-there/issues"
+  },
+  "homepage": "https://github.com/drewandrew/here-and-there#readme"
+}
