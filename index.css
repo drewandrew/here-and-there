@@ -7,6 +7,15 @@ body {
   width: 100%;
 }
 
+.logo {
+  max-width: 50%;
+  margin: 20px auto;
+}
+
+img {
+  width: 100%;
+}
+
 .construction-warning {
   padding: 10px;
 }
