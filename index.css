@@ -23,3 +23,9 @@ img {
 .welcome {
   font-size: 18px;
 }
+
+.fundraiser {
+  border: 8px ridge orange;
+  margin-top: 20px;
+  padding: 10px;
+}
