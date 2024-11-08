@@ -1,3 +1,11 @@
+/* Color palette
+--brunswick-green: #0f4035ff;
+--persian-orange: #d18a54ff;
+--chamoisee: #aa8558ff;
+--delft-blue: #20325aff;
+--silver: #b0b0b0ff;
+*/
+
 body {
   flex: 1 1 auto;
   position: relative;
