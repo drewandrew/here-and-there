@@ -15,25 +15,44 @@ body {
   width: 100%;
 }
 
-.logo {
-  max-width: 50%;
-  margin: 20px auto;
-}
-
 img {
   width: 100%;
 }
 
-.construction-warning {
-  padding: 10px;
+h2 {
+  padding-top: 40px;
 }
 
-.welcome {
-  font-size: 18px;
+.logo {
+  max-width: 50%;
+  margin: 20px auto;
+}
+.contents {
+  max-width: 80%;
+  padding: 0 40px;
+  margin: 0;
+}
+
+.description {
+  text-indent: 30px;
+}
+
+.gist {
+  border-bottom: solid 1px;
+  padding-bottom: 16px;
+}
+
+.construction-warning {
+  padding: 10px;
+  border: 1px solid black;
 }
 
 .fundraiser {
   border: 8px ridge orange;
   margin-top: 20px;
   padding: 10px;
+}
+
+.resources {
+  overflow-wrap: break-word;
 }
