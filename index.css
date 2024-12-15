@@ -13,6 +13,7 @@ body {
   margin: 10px auto;
   z-index: 1;
   width: 100%;
+  line-height: 130%;
 }
 
 img {
@@ -37,19 +38,25 @@ h2 {
   text-indent: 30px;
 }
 
-.gist {
+/* bad practice, but lets do it anyways */
+.border-bottom {
   border-bottom: solid 1px;
   padding-bottom: 16px;
 }
 
+.no-indent {
+  text-indent: 0;
+}
+/* end bad practice */
+
 .construction-warning {
   padding: 10px;
   border: 1px solid black;
+  margin-top: 20px;
 }
 
 .fundraiser {
   border: 8px ridge orange;
-  margin-top: 20px;
   padding: 10px;
 }
 
