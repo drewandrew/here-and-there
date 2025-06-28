@@ -44,8 +44,23 @@ h2 {
   padding-bottom: 16px;
 }
 
-.no-indent {
-  text-indent: 0;
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #d18a54ff;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #d18a54ff;
+  color: white;
 }
 /* end bad practice */
 
